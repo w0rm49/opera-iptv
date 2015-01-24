@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <category>
+        <category_id>0</category_id>
+        <category_title>Эфирные</category_title>
+    </category>
+    <category>
+        <category_id>1</category_id>
+        <category_title>Общество</category_title>
+    </category>
+    <category>
+        <category_id>2</category_id>
+        <category_title>Увлечения</category_title>
+    </category>
+    <category>
+        <category_id>3</category_id>
+        <category_title>Музыка</category_title>
+    </category>
+    <category>
+        <category_id>4</category_id>
+        <category_title>Спорт</category_title>
+    </category>
+    <category>
+        <category_id>5</category_id>
+        <category_title>Познавательные</category_title>
+    </category>
+    <category>
+        <category_id>6</category_id>
+        <category_title>Детские</category_title>
+    </category>
+    <category>
+        <category_id>7</category_id>
+        <category_title>Фильмы</category_title>
+    </category>
+    <category>
+        <category_id>8</category_id>
+        <category_title>HD-каналы</category_title>
+    </category>
+    <category>
+        <category_id>9</category_id>
+        <category_title>Для взрослых</category_title>
+    </category>
+
+    <channel>
+        <title>Первый канал</title>
+        <stream_url><![CDATA[udp://@230.0.1.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/1.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=598" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Россия 1</title>
+        <stream_url><![CDATA[udp://@230.0.1.7:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rus1.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=599" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Россия 2</title>
+        <stream_url><![CDATA[udp://@230.0.1.34:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rus2.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=613" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>НТВ</title>
+        <stream_url><![CDATA[udp://@230.0.1.10:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/4.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=601" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>5 Канал</title>
+        <stream_url><![CDATA[udp://@230.0.1.35:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/5_channel.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=605" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Россия К</title>
+        <stream_url><![CDATA[udp://@230.0.1.21:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rusK.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=606" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Россия 24</title>
+        <stream_url><![CDATA[udp://@230.0.1.8:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/24.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=609" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Карусель</title>
+        <stream_url><![CDATA[udp://@230.0.1.30:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/karusel.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=618" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>ОТР</title>
+        <stream_url><![CDATA[udp://@230.0.1.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/otr.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=848" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>ТВ Центр</title>
+        <stream_url><![CDATA[udp://@230.0.1.12:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/5.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=602" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>ТВ6-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.48:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/tv6-kursk.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=603" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Такт</title>
+        <stream_url><![CDATA[udp://@230.0.1.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ren.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=600" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Сейм</title>
+        <stream_url><![CDATA[udp://@230.0.1.38:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/seim.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=607" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>СТС-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.9:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/stskursk.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=604" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Мульт</title>
+        <stream_url><![CDATA[udp://@230.0.22.9:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/mult.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=882" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>TiJi</title>
+        <stream_url><![CDATA[udp://@230.0.22.10:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/tiji.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=883" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>Домашний</title>
+        <stream_url><![CDATA[udp://@230.0.11.33:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/domashniy.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=615" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Муз ТВ</title>
+        <stream_url><![CDATA[udp://@230.0.11.12:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/muztv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=878" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Мир</title>
+        <stream_url><![CDATA[udp://@230.0.1.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/mir.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=841" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Канал Disney</title>
+        <stream_url><![CDATA[udp://@230.0.11.29:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/disney.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=748" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>5 Канал-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.75:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/5_channel.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=829" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Россия К-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.76:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rusK.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=830" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Россия 24-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.77:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/24.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=831" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Карусель-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.78:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/karusel.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=833" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>Gulli</title>
+        <stream_url><![CDATA[udp://@230.0.22.11:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/gulli.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=884" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>1 Образовательный</title>
+        <stream_url><![CDATA[udp://@230.0.1.25:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/1obrazov.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=638" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>РБК</title>
+        <stream_url><![CDATA[udp://@230.0.11.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rbc.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=608" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Успех</title>
+        <stream_url><![CDATA[udp://@230.0.21.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/uspeh.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=639" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Спас</title>
+        <stream_url><![CDATA[udp://@230.0.11.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/spas.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=674" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Союз</title>
+        <stream_url><![CDATA[udp://@230.0.11.7:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/souz.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=637" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Здоровое ТВ</title>
+        <stream_url><![CDATA[udp://@230.0.21.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/zdorovoeTV.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=631" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>Психология 21</title>
+        <stream_url><![CDATA[udp://@230.0.21.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/streamTV.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=673" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>Телекафе</title>
+        <stream_url><![CDATA[udp://@230.0.11.10:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/telecafe.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=650" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>Загородная жизнь</title>
+        <stream_url><![CDATA[udp://@230.0.17.8:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/zagorodTV.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=619" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>2x2</title>
+        <stream_url><![CDATA[udp://@230.0.21.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/2x2.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=622" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>ТРО</title>
+        <stream_url><![CDATA[udp://@230.0.11.13:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/tro.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=612" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Перец</title>
+        <stream_url><![CDATA[udp://@230.0.11.14:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/perezdtv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=624" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Russia Today</title>
+        <stream_url><![CDATA[udp://@230.0.11.15:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rt.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=623" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>ТВ3</title>
+        <stream_url><![CDATA[udp://@230.0.11.16:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/tv3.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=621" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Amazing Life</title>
+        <stream_url><![CDATA[udp://@230.0.11.17:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/amazinglife.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=633" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>Ретро</title>
+        <stream_url><![CDATA[udp://@230.0.21.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/streamTV.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=620" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>9 Волна</title>
+        <stream_url><![CDATA[udp://@230.0.21.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/9vol.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=641" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>World Fashion</title>
+        <stream_url><![CDATA[udp://@230.0.21.7:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/wf.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=675" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>Сарафан</title>
+        <stream_url><![CDATA[udp://@230.0.21.8:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/sarafan.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=630" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>Драйв</title>
+        <stream_url><![CDATA[udp://@230.0.11.22:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/drive.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=626" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>8 Канал</title>
+        <stream_url><![CDATA[udp://@230.0.11.23:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/8ch.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=642" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>История</title>
+        <stream_url><![CDATA[udp://@230.0.21.9:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/history.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=627" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>Звезда</title>
+        <stream_url><![CDATA[udp://@230.0.11.25:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/zvezda.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=736" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Совершенно секретно</title>
+        <stream_url><![CDATA[udp://@230.0.21.10:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/sovsec.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=636" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>DW TV</title>
+        <stream_url><![CDATA[udp://@230.0.11.27:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/dw-tv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=640" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Домашние животные</title>
+        <stream_url><![CDATA[udp://@230.0.21.11:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/streamTV.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=625" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>НТВ-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.74:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/4.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=827" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Юмор Box</title>
+        <stream_url><![CDATA[udp://@230.0.21.12:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/humorbox.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=644" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>Время ОРТ</title>
+        <stream_url><![CDATA[udp://@230.0.11.31:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/vrema.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=646" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Шансон ТВ</title>
+        <stream_url><![CDATA[udp://@230.0.21.13:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/shanson.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=614" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Первый канал-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.71:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/1.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=820" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Оружие</title>
+        <stream_url><![CDATA[udp://@230.0.17.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/oruzie.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=806" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>A-one</title>
+        <stream_url><![CDATA[udp://@230.0.11.35:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/a-one.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=643" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Ностальгия</title>
+        <stream_url><![CDATA[udp://@230.0.21.16:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/nostalgia.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=849" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Lifenews</title>
+        <stream_url><![CDATA[udp://@230.0.21.14:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/lifenews.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=720" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>NHK World</title>
+        <stream_url><![CDATA[udp://@230.0.11.38:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/nhkworld.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=763" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>ИНВА МЕДИА ТВ</title>
+        <stream_url><![CDATA[udp://@230.0.1.58:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/invatv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=776" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Нано-ТВ</title>
+        <stream_url><![CDATA[udp://@230.0.21.15:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/nanotv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=762" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Discovery Channel</title>
+        <stream_url><![CDATA[udp://@230.0.3.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/discovery.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=679" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Animal Planet</title>
+        <stream_url><![CDATA[udp://@230.0.3.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/animal.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=680" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Discovery Science</title>
+        <stream_url><![CDATA[udp://@230.0.3.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/dissci.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=678" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Discovery World</title>
+        <stream_url><![CDATA[udp://@230.0.3.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/discovery.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=681" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>TLC</title>
+        <stream_url><![CDATA[udp://@230.0.3.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/tlc.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=677" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>ID Xtra</title>
+        <stream_url><![CDATA[udp://@230.0.3.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/idxtra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=738" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Eurosport</title>
+        <stream_url><![CDATA[udp://@230.0.4.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/eurosport.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=834" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>Eurosport 2</title>
+        <stream_url><![CDATA[udp://@230.0.4.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/eurosport.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=835" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>КХЛ</title>
+        <stream_url><![CDATA[udp://@230.0.4.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/khl.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=657" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>СПОРТ ПЛЮС</title>
+        <stream_url><![CDATA[udp://@230.0.4.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/sportplus.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=689" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>Футбол</title>
+        <stream_url><![CDATA[udp://@230.0.4.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/futbol.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=732" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>Спорт</title>
+        <stream_url><![CDATA[udp://@230.0.4.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/sport.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=740" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>Eurosport News</title>
+        <stream_url><![CDATA[udp://@230.0.4.7:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/eurosportnews.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=801" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>Пятница!</title>
+        <stream_url><![CDATA[udp://@230.0.5.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/friday.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=665" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Ю</title>
+        <stream_url><![CDATA[udp://@230.0.5.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/u.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=663" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Bridge TV</title>
+        <stream_url><![CDATA[udp://@230.0.5.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/bridgetv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=662" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>RuTV</title>
+        <stream_url><![CDATA[udp://@230.0.5.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rutv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=664" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Music Box TV</title>
+        <stream_url><![CDATA[udp://@230.0.5.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/musicbox.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=661" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Музыка первого</title>
+        <stream_url><![CDATA[udp://@230.0.5.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/music.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=753" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Music Box Ru</title>
+        <stream_url><![CDATA[udp://@230.0.5.7:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/musicboxru.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=819" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>RuSong TV</title>
+        <stream_url><![CDATA[udp://@230.0.5.8:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rusong.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=839" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>National Geographic</title>
+        <stream_url><![CDATA[udp://@230.0.6.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/natgeo.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=667" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Russian Travel Guide</title>
+        <stream_url><![CDATA[udp://@230.0.6.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rtg.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=802" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>НТВ-ПЛЮС Наш Футбол</title>
+        <stream_url><![CDATA[udp://@230.0.0.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ntvplnashfutbol.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=716" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>Моя планета</title>
+        <stream_url><![CDATA[udp://@230.0.8.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/moya_planeta.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=735" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Боец</title>
+        <stream_url><![CDATA[udp://@230.0.8.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/boets.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=737" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>Наука 2.0</title>
+        <stream_url><![CDATA[udp://@230.0.8.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/nauka20.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=739" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Europa Plus TV</title>
+        <stream_url><![CDATA[udp://@230.0.8.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/eplustv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=734" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Охота и рыбалка</title>
+        <stream_url><![CDATA[udp://@230.0.8.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/streamTV.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=629" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>Бойцовский клуб</title>
+        <stream_url><![CDATA[udp://@230.0.8.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/boyclub.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=787" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>MTV</title>
+        <stream_url><![CDATA[udp://@230.0.21.21:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/mtv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=868" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>Радость моя</title>
+        <stream_url><![CDATA[udp://@230.0.11.11:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/radostmoya.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=628" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>Nickelodeon</title>
+        <stream_url><![CDATA[udp://@230.0.12.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/nickelodeon.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=746" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>Мультимания</title>
+        <stream_url><![CDATA[udp://@230.0.12.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/multimania.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=745" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>Детский</title>
+        <stream_url><![CDATA[udp://@230.0.12.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/detski.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=747" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>Детский Мир</title>
+        <stream_url><![CDATA[udp://@230.0.12.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/detskii_mir.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=617" width="100%" height="380px"></iframe>]]></description>
+        <category_id>6</category_id>
+    </channel>
+    <channel>
+        <title>TV XXI</title>
+        <stream_url><![CDATA[udp://@230.0.13.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/xxi.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=749" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>SONY SCI-FI</title>
+        <stream_url><![CDATA[udp://@230.0.13.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/scifi.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=750" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>SET</title>
+        <stream_url><![CDATA[udp://@230.0.13.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/set.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=751" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Мир сериала</title>
+        <stream_url><![CDATA[udp://@230.0.13.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/mirseriala.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=743" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Любимое кино</title>
+        <stream_url><![CDATA[udp://@230.0.13.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/lubimoe_kino.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=611" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Дом Кино</title>
+        <stream_url><![CDATA[udp://@230.0.13.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/dom_kino.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=754" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Zee TV</title>
+        <stream_url><![CDATA[udp://@230.0.13.8:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/zeetv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=837" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Кино ТВ</title>
+        <stream_url><![CDATA[udp://@230.0.13.7:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/kinotv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=845" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Русский бестселлер</title>
+        <stream_url><![CDATA[udp://@230.0.13.9:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rusbest.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=846" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Первый HD</title>
+        <stream_url><![CDATA[udp://@230.0.1.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/1.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=844" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>Fox HD</title>
+        <stream_url><![CDATA[udp://@230.0.14.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/foxhd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=782" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>Fox Life HD</title>
+        <stream_url><![CDATA[udp://@230.0.14.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/foxlifehd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=783" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>HD Life</title>
+        <stream_url><![CDATA[udp://@230.0.14.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/hdlife.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=781" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>Телепутешествия HD</title>
+        <stream_url><![CDATA[udp://@230.0.14.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/travelhd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=779" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>Охотник и Рыболов HD</title>
+        <stream_url><![CDATA[udp://@230.0.15.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/oir_hd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=777" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>Mezzo Live HD</title>
+        <stream_url><![CDATA[udp://@230.0.15.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/mezzolivehd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=778" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>Еда HD</title>
+        <stream_url><![CDATA[udp://@230.0.15.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/edahd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=780" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>Travel+Adventure</title>
+        <stream_url><![CDATA[udp://@230.0.15.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/travel_adventure.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=698" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>MyZen.tv HD</title>
+        <stream_url><![CDATA[udp://@230.0.16.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/myzen.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=784" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>Россия HD</title>
+        <stream_url><![CDATA[udp://@230.0.16.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rhd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=843" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>Спорт 1 HD</title>
+        <stream_url><![CDATA[udp://@230.0.16.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/sport1.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=842" width="100%" height="380px"></iframe>]]></description>
+        <category_id>8</category_id>
+    </channel>
+    <channel>
+        <title>365 дней ТВ</title>
+        <stream_url><![CDATA[udp://@230.0.17.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/365tv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=791" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>24 Док</title>
+        <stream_url><![CDATA[udp://@230.0.17.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/24doc.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=789" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>24 Техно</title>
+        <stream_url><![CDATA[udp://@230.0.17.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/24tech.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=788" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>НСТВ</title>
+        <stream_url><![CDATA[udp://@230.0.17.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/nstv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=792" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Дождь</title>
+        <stream_url><![CDATA[udp://@230.0.17.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/dozhd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=790" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Вместе-РФ</title>
+        <stream_url><![CDATA[udp://@230.0.1.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/_.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=891" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>English Club</title>
+        <stream_url><![CDATA[udp://@230.0.17.7:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/engclub.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=838" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Русская Ночь</title>
+        <stream_url><![CDATA[udp://@230.0.0.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rusno.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=808" width="100%" height="380px"></iframe>]]></description>
+        <category_id>9</category_id>
+    </channel>
+    <channel>
+        <title>РЖД</title>
+        <stream_url><![CDATA[udp://@230.0.11.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rzd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=850" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>France 24</title>
+        <stream_url><![CDATA[udp://@230.0.11.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/france24.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=851" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Русский детектив</title>
+        <stream_url><![CDATA[udp://@230.0.21.17:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rusdetektiv.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=861" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Fox</title>
+        <stream_url><![CDATA[udp://@230.0.21.18:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/fox.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=862" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Fox Life</title>
+        <stream_url><![CDATA[udp://@230.0.21.19:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/foxlife.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=863" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Nat Geo Wild</title>
+        <stream_url><![CDATA[udp://@230.0.21.20:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/natgeowild.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=866" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Shopping Live</title>
+        <stream_url><![CDATA[udp://@230.0.11.8:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/shoppinglive.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=867" width="100%" height="380px"></iframe>]]></description>
+        <category_id>2</category_id>
+    </channel>
+    <channel>
+        <title>TV1000</title>
+        <stream_url><![CDATA[udp://@230.0.22.1:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/tv1000.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=869" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Viasat Explore</title>
+        <stream_url><![CDATA[udp://@230.0.22.2:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/viasatexplore.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=870" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Viasat History</title>
+        <stream_url><![CDATA[udp://@230.0.22.3:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/viasathistory.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=871" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>ТВ1000 Русское Кино</title>
+        <stream_url><![CDATA[udp://@230.0.22.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/tv1000rukino.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=872" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>TV1000 Action</title>
+        <stream_url><![CDATA[udp://@230.0.22.5:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/tv1000action.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=873" width="100%" height="380px"></iframe>]]></description>
+        <category_id>7</category_id>
+    </channel>
+    <channel>
+        <title>Viasat Sport</title>
+        <stream_url><![CDATA[udp://@230.0.22.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/viasatsport.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=874" width="100%" height="380px"></iframe>]]></description>
+        <category_id>4</category_id>
+    </channel>
+    <channel>
+        <title>Viasat Nature</title>
+        <stream_url><![CDATA[udp://@230.0.22.7:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/viasatnature.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=875" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Viasat Da Vinci</title>
+        <stream_url><![CDATA[udp://@230.0.22.8:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/viasatdavinci.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=876" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>Россия 1-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.72:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rus1.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=821" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Шант ТВ</title>
+        <stream_url><![CDATA[udp://@230.0.11.9:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/shant.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=877" width="100%" height="380px"></iframe>]]></description>
+        <category_id>3</category_id>
+    </channel>
+    <channel>
+        <title>RTД HD</title>
+        <stream_url><![CDATA[udp://@230.0.16.4:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rtdhd.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=879" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Беларусь 24</title>
+        <stream_url><![CDATA[udp://@230.0.11.18:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/belarus24.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=880" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>360</title>
+        <stream_url><![CDATA[udp://@230.0.11.19:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/360.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=881" width="100%" height="380px"></iframe>]]></description>
+        <category_id>5</category_id>
+    </channel>
+    <channel>
+        <title>ЛДПР-Live</title>
+        <stream_url><![CDATA[udp://@230.0.11.6:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ldpr.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=885" width="100%" height="380px"></iframe>]]></description>
+        <category_id>1</category_id>
+    </channel>
+    <channel>
+        <title>Россия 2-Курск</title>
+        <stream_url><![CDATA[udp://@230.0.1.73:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/rus2.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=824" width="100%" height="380px"></iframe>]]></description>
+        <category_id>0</category_id>
+    </channel>
+    <channel>
+        <title>Радио России</title>
+        <stream_url><![CDATA[udp://@230.0.1.50:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/raross.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=772" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио Маяк</title>
+        <stream_url><![CDATA[udp://@230.0.1.53:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ramaya.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=773" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Вести ФМ</title>
+        <stream_url><![CDATA[udp://@230.0.1.52:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ravefm.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=775" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>NRJ Russia</title>
+        <stream_url><![CDATA[udp://@230.0.1.60:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=799" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио Romantica</title>
+        <stream_url><![CDATA[udp://@230.0.1.61:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=797" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Детское Радио</title>
+        <stream_url><![CDATA[udp://@230.0.1.62:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=798" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Дорожное Радио</title>
+        <stream_url><![CDATA[udp://@230.0.1.63:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=800" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио Рекорд</title>
+        <stream_url><![CDATA[udp://@230.0.1.64:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=796" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Наше Радио</title>
+        <stream_url><![CDATA[udp://@230.0.1.65:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=804" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио ЭХО Москвы</title>
+        <stream_url><![CDATA[udp://@230.0.1.69:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=814" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио Relax FM</title>
+        <stream_url><![CDATA[udp://@230.0.1.70:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=815" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио Мир</title>
+        <stream_url><![CDATA[udp://@230.0.1.68:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=803" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио DanceRadio</title>
+        <stream_url><![CDATA[udp://@230.0.1.81:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=886" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио Авторадио</title>
+        <stream_url><![CDATA[udp://@230.0.1.82:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=887" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио Спорт FM</title>
+        <stream_url><![CDATA[udp://@230.0.1.83:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=888" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Радио D-FM</title>
+        <stream_url><![CDATA[udp://@230.0.1.84:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=889" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+    <channel>
+        <title>Русское Радио</title>
+        <stream_url><![CDATA[udp://@230.0.1.85:1234]]></stream_url>
+        <video_type>http</video_type>
+        <logo_30x30>http://iptv.r46.ru/cache/channel/icon/ra.gif</logo_30x30>
+        <description><![CDATA[<iframe id="ktk_epg" src="http://iptv.r46.ru/tvg.php?pid=890" width="100%" height="380px"></iframe>]]></description>
+        <category_id></category_id>
+    </channel>
+</items>
