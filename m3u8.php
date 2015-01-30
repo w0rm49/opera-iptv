@@ -8,10 +8,10 @@ header("Content-type: application/vnd.apple.mpegurl; charset=utf-8;");
 ?>
 <?php if(isset($_GET['url'])): ?>
 #EXTM3U
-#EXT-X-TARGETDURATION:10
+#EXT-X-TARGETDURATION:1.0
 #EXT-X-MEDIA-SEQUENCE:142178140
-#EXTINF:10,
+#EXTINF:1.0,
 <?= $_GET['url']; ?>/videofile.mpg
-#EXTINF:10,
+#EXTINF:1.0,
 <?= $_GET['url']; ?>/videofile.mpg
 <?php endif; ?>
