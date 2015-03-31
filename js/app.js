@@ -78,31 +78,33 @@ $(document).ready(function(){
             },
             VK_UP: function () {
                 if (Playlist.visible) {
-                    $guide.attr("src", Playlist.getUnderCursorChannel().guide);
                     Playlist.cursorPrev();
+                    $guide.attr("src", Playlist.getUnderCursorChannel().guide);
                 }
             },
             VK_DOWN: function () {
                 if (Playlist.visible) {
-                    $guide.attr("src", Playlist.getUnderCursorChannel().guide);
                     Playlist.cursorNext();
+                    $guide.attr("src", Playlist.getUnderCursorChannel().guide);
                 }
             },
             VK_LEFT: function () {
                 if (Playlist.visible) {
                     Playlist.cursorPrevPage();
+                    $guide.attr("src", Playlist.getUnderCursorChannel().guide);
                 }
             },
             VK_RIGHT: function () {
                 if (Playlist.visible) {
                     Playlist.cursorNextPage();
+                    $guide.attr("src", Playlist.getUnderCursorChannel().guide);
                 }
             },
             VK_RED: function () {
-                if (!$guideWrap.is(":visible")) {
+                $guideWrap.toggle();
+                if ($guideWrap.is(":visible")) {
                     $guide.attr('src', $guide.attr('src')); //refresh
                 }
-                $guideWrap.toggle();
             },
             VK_BLUE: function () {
                 Settings.toggle();
