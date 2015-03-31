@@ -3,7 +3,7 @@
  */
 var Playlist = {
 
-    url : "/playlist.xml",
+    url : "http://iptv.r46.ru/playlist.php?fmt=nstream",
     visible : false,
     entries: [],
     current: 0,
@@ -150,6 +150,10 @@ var Playlist = {
 
     getCurrentChannel: function(){
         return this.entries[this.current];
+    },
+
+    getUnderCursorChannel: function(){
+        return this.entries[this.cursor];
     },
 
     setCurrentUnderCursor : function(){

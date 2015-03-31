@@ -78,6 +78,7 @@ $(document).ready(function(){
             },
             VK_UP: function () {
                 if (Playlist.visible) {
+                    $guide.attr("src", Playlist.getUnderCursorChannel().guide);
                     Playlist.cursorPrev();
                 }
             },
@@ -97,6 +98,9 @@ $(document).ready(function(){
                 }
             },
             VK_RED: function () {
+                if (!$guideWrap.is(":visible")) {
+                    $guide.attr('src', $guide.attr('src')); //refresh
+                }
                 $guideWrap.toggle();
             },
             VK_BLUE: function () {
