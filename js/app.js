@@ -84,6 +84,7 @@ $(document).ready(function(){
             },
             VK_DOWN: function () {
                 if (Playlist.visible) {
+                    $guide.attr("src", Playlist.getUnderCursorChannel().guide);
                     Playlist.cursorNext();
                 }
             },
